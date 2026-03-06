@@ -2,8 +2,8 @@
 csdn解锁下载
 
 # 体验地址
-
-https://download.dingjie.site
+每日一次
+[[https://download.dingjie.site](https://download.dingjie.site/?code=JSkgNMcVttwaRKL7DLzeJxGJZt6d6yxh)](http://download.dingjie.site/?code=2iq6sV9UkTsGDKQi7iPMC-UZapUu3X6n)
 
 # 入群领取体验卡
 qq：1037785810
