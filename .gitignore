@@ -1,12 +1,1 @@
-csdn-unlocker/cache/html/
-csdn-unlocker/cache/
-# Browser runtime profile (very large & frequently changing)
-csdn-profile/
-# Python cache
-**/__pycache__/
-*.pyc
-
-# macOS
-.DS_Store
-.run/
 .logs/
